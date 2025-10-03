@@ -22,14 +22,14 @@
 <h2>Work Experience 7 months</h2>
   =========================================================
 <h3>Technologies that I have worked with in my projects</h3>
-<h4> ⠀⠀Procedural content generation
-<h4> ⠀⠀Niagara & cascade FX
-<h4> ⠀⠀Ultra Dynamic Sky
-<h4> ⠀⠀Unreal Insights
-<h4> ⠀⠀PBR Textures
-<h4> ⠀⠀Animations
-<h4> ⠀⠀Nanites
-<h4> ⠀⠀Lumen
+<h4>Procedural content generation
+<h4>Niagara & cascade FX
+<h4>Ultra Dynamic Sky
+<h4>Unreal Insights
+<h4>PBR Textures
+<h4>Animations
+<h4>Nanites
+<h4>Lumen
 </div>
   <div align="center">
 </div>
