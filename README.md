@@ -19,7 +19,7 @@
 <h1>
 </div>
 <div  align="center">
-<h2>Work Experience 8 months</h2>
+<h2>Work Experience 9 months</h2>
   =========================================================
 <h3>Technologies that I have worked with in my projects</h3>
 <h4>Procedural content generation
