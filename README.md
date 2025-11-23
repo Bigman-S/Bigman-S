@@ -28,8 +28,10 @@
 <h4>Unreal Insights
 <h4>PBR Textures
 <h4>Animations
-<h4>Nanites
-<h4>Lumen
+<h4>Blueprints
+<h4>Widgets (UMG)
+<h4>Set up Nanites & Lumen in project
+<h4>Manage all the principles of object-oriented programming in blueprints
 </div>
   <div align="center">
 </div>
